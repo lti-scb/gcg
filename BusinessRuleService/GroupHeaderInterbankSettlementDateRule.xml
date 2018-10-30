@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<FIToFICstmrCdtTrf>
+		<GrpHdr>
+			<IntrBkSttlmDt>GroupHeader Interbank Settlement Date Rule Works</IntrBkSttlmDt>
+		</GrpHdr>
+		<CdtTrfTxInf>
+			<IntrBkSttlmDt></IntrBkSttlmDt>
+		</CdtTrfTxInf>
+	</FIToFICstmrCdtTrf>
+</Document>

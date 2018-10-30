@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Document>
+	<FIToFIPmtStsRpt>
+		<TxInfAndSts>
+			<OrgnlTxRef>
+				<Cdtr>
+					<Nm>payeeName</Nm>
+				</Cdtr>
+			</OrgnlTxRef>
+		</TxInfAndSts>
+	</FIToFIPmtStsRpt>
+</Document>

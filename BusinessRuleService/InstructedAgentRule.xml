@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<FIToFICstmrCdtTrf>
+		<GrpHdr>
+			<InstdAgt>Intructed Agent Works</InstdAgt>
+		</GrpHdr>
+		<CdtTrfTxInf>
+			<InstdAgt></InstdAgt>
+		</CdtTrfTxInf>
+	</FIToFICstmrCdtTrf>
+</Document>
